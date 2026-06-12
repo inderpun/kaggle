@@ -1,0 +1,14 @@
+{
+  "id": "inderpuneetsingh/arc-dsl-program-synthesis",
+  "title": "ARC DSL Program Synthesis Baseline",
+  "code_file": "arc-dsl-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": ["arc-prize-2026-arc-agi-2"],
+  "kernel_sources": []
+}
