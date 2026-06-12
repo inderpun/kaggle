@@ -1,5 +1,5 @@
 {
-  "id": "inderpuneetsingh/llm-preference-rung2-tfidf-tuned",
+  "id": "inderpuneetsingh/llm-preference-rung-2-tuned-tfidf-similarity",
   "title": "LLM Preference Rung 2 - Tuned TFIDF + Similarity",
   "code_file": "rung2-notebook.ipynb",
   "language": "python",
