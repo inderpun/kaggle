@@ -1,0 +1,15 @@
+{
+  "id": "inderpuneetsingh/llm-preference-baseline-structural-features-lr",
+  "title": "LLM Preference Baseline - Structural Features + LR",
+  "code_file": "baseline-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "kernel_sources": []
+}

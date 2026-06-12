@@ -1,0 +1,9 @@
+# Competition data — never committed (Kaggle terms + size); fetch via each comp's `make data`
+*/data/
+
+# Run artifacts
+*/outputs/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

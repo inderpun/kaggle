@@ -1,0 +1,15 @@
+{
+  "id": "inderpuneetsingh/llm-preference-rung2-tfidf-tuned",
+  "title": "LLM Preference Rung 2 - Tuned TFIDF + Similarity",
+  "code_file": "rung2-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "kernel_sources": []
+}
